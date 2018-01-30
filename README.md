@@ -1,8 +1,8 @@
-# DATA ANALYSIS
+# SPORTS BET PREDICTION
 
 ### Introduction
 
-I've been gathering data of all matches in different leagues in different countries since August 2017 - About 20,000 matches (As at TODAY - I mean this very day - 30/01/2018)
+I've been gathering data of all matches in different leagues in different countries since August 2017 - About 20,000 matches (As at TODAY - 30/01/2018)
 
 As match data keeps adding up automatically, specific bet odds related to the match are also stored
 Hidden within this data are lots of precious gems. Already found one of such gems - xD
@@ -207,9 +207,9 @@ This is the updated Objected after a match or event is complete
 
 ### WTF?!?! There's nothing special about this data
 
-YES. There's nothing special about this data. 
+YES. There's nothing special about this data. But this data is precious in huge quantities.
 
-Not so fast. I've been able to make some deductions, which predicts accurately as high as 80% success! However, this only applies to the 'BARCLAYS ENGLAND PREMIER LEAGUE'. Haven't tried modelling for other leagues.
+Fast Foward. I've been able to make some deductions, which predicts accurately as high as 80% success! However, this only applies to the 'BARCLAYS ENGLAND PREMIER LEAGUE'. Haven't tried modelling for other leagues.
 
 Follow this trend to predict for Barclays Premier League
 
@@ -224,7 +224,7 @@ If Y-X = Between 1 and 2 ------> Team B wins or draws 80% of the time
 It's that Simple
 ```
 
-NOTE: I have no technical background in either betting, or data analysis. 
+NOTE: I have no technical background in either betting, or data analysis. I just have access to the data, and I've been able to gather chunks of them
 
 
 ### Contributions
